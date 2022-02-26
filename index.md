@@ -8,4 +8,4 @@ __Vähän paksua tekstiä__
 
 ~~Tästä ei saa kunnolla selvää~~
 
-Täältä löytää uutisia: [Link](www.yle.fi)
+Täältä löytää uutisia: [Link](https://yle.fi/)
