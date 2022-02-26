@@ -10,4 +10,4 @@ __Vähän paksua tekstiä__
 
 [Täältä](https://yle.fi/) löytää verorahoilla rahoitettuja uutisia.
 
-![Täältä löytyy joku hieno tekijänoikeusvapaa kuva](https://www.pexels.com/fi-fi/kuva/meri-maisema-taivas-auringonlasku-10194705/)
+![Tässäpä joku hieno tekijänoikeusvapaa kuva](https://images.pexels.com/photos/10194705/pexels-photo-10194705.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260)
