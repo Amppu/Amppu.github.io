@@ -13,13 +13,6 @@ __Vähän paksua tekstiä__
 - tällä
 - tavalla
 
-4. listan
-1. Numeroimalla
-3. määrittää
-2. voit
-5. järjestyksen.
-
-
 [Täältä](https://yle.fi/) löytää verorahoilla rahoitettuja uutisia.
 
 Alapuolella joku hieno tekijänoikeusvapaa kuva
